@@ -9,7 +9,7 @@ Coyote Song was an innovative outdoor education program launched during the COVI
 <br>
 
 ### Coyote Song About Us
-<img src="screenshots/CoyoteSongNatureSchool2.png" alt="Coyote Song About Us" title="Coyote Song About Us">
+<img src="screenshots/CoyoteSongNatureSchool2.jpg" alt="Coyote Song About Us" title="Coyote Song About Us">
 <br>
 
 ### Coyote Song Application
