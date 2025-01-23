@@ -8,5 +8,13 @@ Coyote Song was an innovative outdoor education program launched during the COVI
 <img src="screenshots/coyotesong_index.png" alt="Coyote Song Landing Page" title="Coyote Song Landing Page">
 <br>
 
-### Coyote Song Info Page
-<img src="screenshots/info_page.jpg" alt="Coyote Song Info Page" title="Coyote Song Info Page">
+### Coyote Song Application
+<img src="screenshots/CoyoteSongApplication.png" alt="Coyote Song Application" title="Coyote Song Application">
+<br>
+
+### Coyote Song Enrollment Process - Checkout
+<img src="screenshots/CoyoteSongEnrollment3.png" alt="Coyote Song Enrollment Process - Checkout" title="Coyote Song Enrollment Process - Checkout">
+<br>
+
+### Coyote Song Info
+<img src="screenshots/info_page.jpg" alt="Coyote Song Summer Camp Info" title="Coyote Song Summer Camp Info">
